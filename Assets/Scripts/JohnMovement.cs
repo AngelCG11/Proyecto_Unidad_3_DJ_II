@@ -69,4 +69,6 @@ public class JohnMovement : MonoBehaviour
     {
         Rigidbody2D.velocity = new Vector2(Horizontal, Rigidbody2D.velocity.y);
     }
+
+
 }
